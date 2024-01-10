@@ -7,7 +7,7 @@ div {
     #navbar {
     
         color: red;
-        font-size: 20px;
+        font-size: 50px;
     
     
     }
@@ -15,13 +15,13 @@ div {
     #sidebar{
     
         color: blue;
-        font-size: 16px;
+        font-size: 30px;
     
     }
     
     #main{
     
         color: green;
-        font-size: 12px;
+        font-size: 20px;
     
     }
